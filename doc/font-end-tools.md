@@ -15,7 +15,7 @@ http://tinypng.org/
 
  
 ## 浏览器
- 1. Chrome
+1. Chrome
 做mobile项目时常用Chrome。
 “设置”中可以设定窗体大小和手机相同，让调试窗口靠右侧（方便调试），设置user agent为android 或者ios，还可以模拟touch事件等。
 Resources中可以清除Local Storage、cookie、manifest。
@@ -54,6 +54,7 @@ chrome扩展程序,开发时对于那种限制refer的可以使用。
 1. JSView
 firefox插件，方便看到页面调用了哪些css和js，可以快速找到要修改、查看的文件。
  
+
  
 ## 测试&校验
 1. Jsonlint
